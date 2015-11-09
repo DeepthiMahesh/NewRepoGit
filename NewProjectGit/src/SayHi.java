@@ -6,8 +6,9 @@ public class SayHi {
 		
 		System.out.println("Hello Deepthi");
 		System.out.println("Bye Deepthi");
-		System.out.println("Logging");
+		System.out.println("Logging out");
 		System.out.println("tata");
+		System.out.println("Meowww");
 
 	}
 
