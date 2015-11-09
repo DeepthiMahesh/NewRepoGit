@@ -9,6 +9,7 @@ public class SayHi {
 		System.out.println("Logging out");
 		System.out.println("tata");
 		System.out.println("Meowww");
+		System.out.println("Ting tong");
 
 	}
 
