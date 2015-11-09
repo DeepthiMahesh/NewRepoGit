@@ -10,6 +10,7 @@ public class SayHi {
 		System.out.println("tata");
 		System.out.println("Meowww");
 		System.out.println("Ting tong");
+		System.out.println("Bang Bang");
 
 	}
 
